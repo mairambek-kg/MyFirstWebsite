@@ -1,0 +1,62 @@
+/* .card-item{
+    margin-right: 32px;
+} */
+
+.input-parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: lightgray;
+    padding: 10px 2%;
+    margin: 100px 0 20px 0;
+}
+
+.btn-new{
+    background: green;
+    border: 0;
+    color: white;
+    border-radius: 4px;
+}
+
+.input-parent input{
+    width: 700px;
+    border: 0;
+    border-radius: 4px;
+    padding: 5px 10px;
+    outline: none;
+}
+
+.input-search{
+    border: 0;
+    border-radius: 4px;
+    background: red;
+    color: white;
+    padding: 5px 10px;
+}
+
+.btn-parent{
+    background: lightgray;
+    padding: 5px 10px;
+}
+
+.first-btn{
+    border: 0.5px solid rgba(0, 0, 0, 0.3);
+    padding: 3px 10px;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.second-btn{
+    background: blue;
+    padding: 3px 10px;
+    font-size: 14px;
+    color: white;
+    margin-right: 20px;
+}
+
+.thrid-btn{
+    padding: 3px 10px;
+    font-size: 14px;
+    color: red;
+    border: 0.5px solid red;
+}
